@@ -1,7 +1,9 @@
-Python Crash Course
+Python Crash Course (mmmPy)
 ===
 
 A Hands-On, Project-Based Introduction to Programming
+---
+Collaborative, group effort of cousins learning Python together!
 ---
 
 This is a collection of resources for [Python Crash Course](http://www.nostarch.com/pythoncrashcourse/), an introductory programming book from [No Starch Press](http://www.nostarch.com) by Eric Matthes. Click here for a [much cleaner version](https://ehmatthes.github.io/pcc/) of these online resources.
